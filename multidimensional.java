@@ -1,6 +1,6 @@
 import java.util.*;
 public class multidimensional {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         int[][] array = new int[3][4];
         //initialization
         for(int i =0 ; i < 3 ; i++){
